@@ -1,7 +1,7 @@
 // ----- Configuration Zone! -----
 // Don't forget to change this to your LIFF ID
 
-const liffId = "1651833066-zO3vlq60";
+const liffId = "1656850137-ayjrrDg0";
 
 // Don't forget to change this to your LIFF ID
 
